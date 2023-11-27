@@ -4,8 +4,23 @@
 	padding=0;
 	height= 100%;
 	width= 100%;
-  
+  background=color
 }
 .product__photo{
+height= 100px;
+width= 50px;
+	
 	
 }
+
+
+.photo-container{
+	
+}
+.photo-main{
+	
+}
+.photo-album>img{
+	
+}
+	
